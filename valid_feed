@@ -20,15 +20,15 @@
                 <g:price>14.95 USD</g:price>
             </g:shipping>
             <g:gtin>71919219405200</g:gtin>
-            <g:brand>LG</g:brand>
+            <g:brand>LG,B</g:brand>
             <g:mpn>22LB4510/US</g:mpn>
             <g:google_product_category>Electro >TV</g:google_product_category>
             <g:product_type>Consumer Electronics > TVs</g:product_type>
         </item>
         <item>
             <g:id>PFM654321</g:id>
-            <g:title>Dior Correction Creme</g:title>
-            <g:description>Ultimate Correction Creme</g:description>
+            <g:title>Dior" Correction Creme</g:title>
+            <g:description>Ultimate "Correction Creme</g:description>
             <g:link>http://www.example.com/Dior%20Capture%20X</g:link>
             <g:image_link>http://image.example.com/1.jpg</g:image_link>
             <g:condition>new</g:condition>
