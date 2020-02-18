@@ -26,7 +26,7 @@
             <g:product_type>Consumer Electronics > TVs</g:product_type>
         </item>
         <item>
-            <g:id></g:id>
+            <g:id>26262626</g:id>
             <g:title>Dior" cream</g:title>
             <g:description>Ultimate "Correction Creme</g:description>
             <g:link>https://raw.githubusercontent.com/DenCHernusskiy/Workflows/master/valid_feed</g:link>
@@ -56,7 +56,7 @@
             <g:link>http://www.example.com/clothing/women?extid=LO-296</g:link>
             <g:image_link>http://image_links.example.com/CL26.jpg</g:image_link>
             <g:condition>new</g:condition>
-            <g:availability>out of stock</g:availability>
+            <g:availability>out_of_stock</g:availability>
             <g:price>29.50 USD</g:price>
             <g:google_product_category>Clothing > Jeans</g:google_product_category>
             <g:brand>M and S</g:brand>
