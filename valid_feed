@@ -46,8 +46,8 @@
             </g:shipping>
             <g:gtin>3348901056069</g:gtin>
             <g:brand></g:brand>
-            <g:product_type>Personal > Cosmetics > Skin</g:product_type>
-            <g:google_product_category></g:google_product_category>
+            <g:product_type>Personal >Cosmetics > Skin</g:product_type>
+            <g:google_product_category>Cosmetics > Skin</g:google_product_category>
         </item>
         <item>
             <g:id>CLO-29473856-1</g:id>
