@@ -32,7 +32,7 @@
             <g:link>https://raw.githubusercontent.com/DenCHernusskiy/Workflows/master/valid_feed</g:link>
             <g:image_link>http://image_links.example.com/CL26.jpg</g:image_link>
             <g:condition>new</g:condition>
-            <g:availability>in stock</g:availability>
+            <g:availability></g:availability>
             <g:price></g:price>
             <g:shipping>
                 <g:country>US</g:country>
