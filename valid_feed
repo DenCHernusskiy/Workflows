@@ -26,28 +26,28 @@
             <g:product_type>Consumer Electronics > TVs</g:product_type>
         </item>
         <item>
-            <g:id>PFM654321</g:id>
-            <g:title>Dior" Correction Creme</g:title>
+            <g:id></g:id>
+            <g:title></g:title>
             <g:description>Ultimate "Correction Creme</g:description>
-            <g:link>http://www.example.com/Dior%20Capture%20X</g:link>
-            <g:image_link>http://image.example.com/1.jpg</g:image_link>
+            <g:link></g:link>
+            <g:image_link></g:image_link>
             <g:condition>new</g:condition>
-            <g:availability>in stock</g:availability>
-            <g:price>99 USD</g:price>
+            <g:availability></g:availability>
+            <g:price></g:price>
             <g:shipping>
                 <g:country>US</g:country>
                 <g:service>Standard Rate</g:service>
-                <g:price>4.95 USD</g:price>
+                <g:price></g:price>
             </g:shipping>
             <g:shipping>
                 <g:country>US</g:country>
                 <g:service>Next Day</g:service>
-                <g:price>8.50 USD</g:price>
+                <g:price></g:price>
             </g:shipping>
             <g:gtin>3348901056069</g:gtin>
-            <g:brand>Dior,hi</g:brand>
+            <g:brand></g:brand>
             <g:product_type>Personal > Cosmetics > Skin</g:product_type>
-            <g:google_product_category>Cosmetics > Skin</g:google_product_category>
+            <g:google_product_category></g:google_product_category>
         </item>
         <item>
             <g:id>CLO-29473856-1</g:id>
