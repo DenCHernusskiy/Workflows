@@ -27,10 +27,10 @@
         </item>
         <item>
             <g:id></g:id>
-            <g:title></g:title>
+            <g:title>Dior" cream</g:title>
             <g:description>Ultimate "Correction Creme</g:description>
-            <g:link></g:link>
-            <g:image_link></g:image_link>
+            <g:link>https://raw.githubusercontent.com/DenCHernusskiy/Workflows/master/valid_feed</g:link>
+            <g:image_link>http://image_links.example.com/CL26.jpg</g:image_link>
             <g:condition>new</g:condition>
             <g:availability></g:availability>
             <g:price></g:price>
