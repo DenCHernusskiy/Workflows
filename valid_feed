@@ -42,7 +42,7 @@
             <g:shipping>
                 <g:country>US</g:country>
                 <g:service>Next Day</g:service>
-                <g:price>0,00</g:price>
+                <g:price>0.00</g:price>
             </g:shipping>
             <g:gtin>3348901056069</g:gtin>
             <g:brand></g:brand>
