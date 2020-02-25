@@ -89,7 +89,7 @@
         </item>
         <item>
             <g:id>CLO-29473856-3</g:id>
-            <g:title>Roma Cotton Rich Bootcut Jeans - Size 8 Tall</g:title>
+            <g:title>Roma Cotton Rich Bootcut Jeans - Size 8 Tall,</g:title>
             <g:description>A smart pair of bootcut jeans</g:description>
             <g:link>http://www.example.com/clothing?extid=CLO-29473856</g:link>
             <g:image_link>http://image_links.example.com/CLO-6.jpg</g:image_link>
@@ -105,6 +105,30 @@
             <g:item_group_id>CLO-294738562</g:item_group_id>
             <g:mpn>B003J5F5EY2</g:mpn>
             <g:product_type>Women's Clothing > Jeans > Bootcut</g:product_type>
+        </item>
+                <item>
+            <g:id>26262121</g:id>
+            <g:title>Dior, cream</g:title>
+            <g:description>определяется как блоки текста, которые не анализируются синтаксическим анализатором, но в противном случае распознаются как разметка. Предопределенные объекты, такие как  lt ;, gt; и amp; требуют ввода и, как правило, их трудно прочитать в разметке. Термин CDATA, означающий символьные данные, используется для различных, но связанных целей в языках разметки SGML и XML. Термин указывает, что определенная часть документа является общими символьными данными, а не не символьными данными или символьными данными с более конкретной, ограниченной структурой. </g:description>
+            <g:link>https://raw.githubusercontent.com/DenCHernusskiy/Workflows/master/valid_feed</g:link>
+            <g:image_link>http://image_links.example.com/CL26.jpg</g:image_link>
+            <g:condition>new</g:condition>
+            <g:availability></g:availability>
+            <g:price></g:price>
+            <g:shipping>
+                <g:country>US</g:country>
+                <g:service>Standard Rate</g:service>
+                <g:price></g:price>
+            </g:shipping>
+            <g:shipping>
+                <g:country>US</g:country>
+                <g:service>Next Day</g:service>
+                <g:price>0.00</g:price>
+            </g:shipping>
+            <g:gtin>3348901056069</g:gtin>
+            <g:brand></g:brand>
+            <g:product_type>Personal >Cosmetics > Skin</g:product_type>
+            <g:google_product_category>Cosmetics > Skin</g:google_product_category>
         </item>
     </channel>
 </rss>
