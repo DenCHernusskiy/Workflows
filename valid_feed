@@ -51,14 +51,14 @@
         </item>
         <item>
             <g:id>CLO-29473856-1</g:id>
-            <g:title>Roma Cotton Rich Bootcut Jeans - Size 8 </g:title>
+            <g:title></g:title>
             <g:description>A smart pair of bootcut jeans</g:description>
-            <g:link>http://www.example.com/clothing/women?extid=LO-296</g:link>
-            <g:image_link>http://image_links.example.com/CL26.jpg</g:image_link>
+            <g:link></g:link>
+            <g:image_link></g:image_link>
             <g:condition>new</g:condition>
             <g:availability>out_of_stock</g:availability>
             <g:price>29.50 USD</g:price>
-            <g:google_product_category>Clothing > Jeans</g:google_product_category>
+            <g:google_product_category></g:google_product_category>
             <g:brand>M and S</g:brand>
             <g:gender>Female</g:gender>
             <g:age_group>Adult</g:age_group>
