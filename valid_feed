@@ -130,5 +130,29 @@
             <g:product_type>Personal >Cosmetics > Skin</g:product_type>
             <g:google_product_category>Cosmetics > Skin</g:google_product_category>
         </item>
+                        <item>
+            <g:id>2626</g:id>
+            <g:title></g:title>
+            <g:description>определяется как блоки текста, которые не анализируются синтаксическим анализатором, но в противном случае распознаются как разметка. Предопределенные объекты, такие как  lt ;, gt; и amp; требуют ввода и, как правило, их трудно прочитать в разметке. Термин CDATA, означающий символьные данные, используется для различных, но связанных целей в языках разметки SGML и XML. Термин указывает, что определенная часть документа является общими символьными данными, а не не символьными данными или символьными данными с более конкретной, ограниченной структурой. </g:description>
+            <g:link></g:link>
+            <g:image_link></g:image_link>
+            <g:condition>new</g:condition>
+            <g:availability></g:availability>
+            <g:price></g:price>
+            <g:shipping>
+                <g:country>US</g:country>
+                <g:service>Standard Rate</g:service>
+                <g:price></g:price>
+            </g:shipping>
+            <g:shipping>
+                <g:country>US</g:country>
+                <g:service>Next Day</g:service>
+                <g:price>0.00</g:price>
+            </g:shipping>
+            <g:gtin>3348901056069</g:gtin>
+            <g:brand></g:brand>
+            <g:product_type>Personal >Cosmetics > Skin</g:product_type>
+            <g:google_product_category></g:google_product_category>
+        </item>
     </channel>
 </rss>
