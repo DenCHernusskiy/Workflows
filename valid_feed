@@ -6,7 +6,7 @@
         <link>http://www.example.com</link>
         <description>This is a sample feed</description>
         <item>
-            <g:id>TV_123456</g:id>
+            <g:id></g:id>
             <g:title>LG 22LB4510 - 22" LED TV - 1080p (FullHD)</g:title>
             <g:description>boast stunning picture quality</g:description>
             <g:link>http://www.example.com/electronics/tv/220.html</g:link>
