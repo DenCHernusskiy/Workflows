@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-    <language>ru</language>
   <channel>
+      <language>ru</language>
     <item>
       <g:id>240-LV04</g:id>
       <g:link>https://recom.devel.ardas.dp.ua/beginner-s-yoga.html</g:link>
